@@ -13,3 +13,7 @@ nav	{	font-weight: bold;
 		font-size: 1.25em;
 		word-spacing: 1em;	}
 ul	{	font-weight: bold;	}
+
+footer	{	color: #333333;
+			font-size: .75em;
+			font-style: italic;	}
